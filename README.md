@@ -1,6 +1,6 @@
 ### Hi, I'm Mosopefoluwa
 
-- 💻 Data Analyst sharing my journey, learning and interest in tech.
+- 💻 Data Analyst sharing my journey and interest in tech.
 - 🙂 Data Visualization specialists.
 - 🤝 I’m looking to connect with individuals with interest in tech.
 - 💬 Ask me about Data Analysis and Data Visualization.
